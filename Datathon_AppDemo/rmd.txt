@@ -1,0 +1,3 @@
+191455.0, Casual, Dép Xốp Bé Trai, Xám, 36, 0743d386d8de43b7a095082374a74849XAM36
+99000.0, Casual, SanDal EVA Phun Bé Trai, Đỏ, 38, 2a7a583752614f36a0819dceea035fcbDOO38
+163571.0, Casual, Dép Xốp Nữ, Đỏ, 35, d96a88985a3c4df190a928a33c78dba6DOO35
